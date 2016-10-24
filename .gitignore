@@ -2,4 +2,6 @@
 /logs
 /npm-debug.log
 /node_modules
+/public/js
+/public/css
 .DS_Store
